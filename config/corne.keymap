@@ -61,9 +61,9 @@
 
         Gaming {
             bindings = <
-&kp ESCAPE        &kp F6  &kp F7  &kp F8  &kp F9         &kp F10       &trans  &trans  &trans  &trans  &trans  &trans
-&kp LEFT_CONTROL  &kp F1  &kp F2  &kp F3  &kp F4         &kp F5        &trans  &trans  &trans  &trans  &trans  &trans
-&trans            &trans  &trans  &trans  &trans         &kp SPACE     &trans  &trans  &trans  &trans  &trans  &trans
+&kp ESCAPE        &kp F7  &kp F8  &kp F9  &kp F10        &kp F11       &trans  &trans  &trans  &trans  &trans  &trans
+&kp LEFT_CONTROL  &kp F1  &kp F2  &kp F3  &kp F5         &kp F6        &trans  &trans  &trans  &trans  &trans  &trans
+&trans            &trans  &trans  &trans  &kp LEFT_ALT   &kp SPACE     &trans  &trans  &trans  &trans  &trans  &trans
                                   &trans  &kp BACKSPACE  &kp LSHIFT    &trans  &trans  &trans
             >;
 
